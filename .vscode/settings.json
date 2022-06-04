@@ -1,0 +1,4 @@
+{
+	"editor.foldingImportsByDefault": true,
+	"typescript.tsserver.enableTracing": true
+}
