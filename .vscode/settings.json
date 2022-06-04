@@ -1,4 +1,7 @@
 {
 	"editor.foldingImportsByDefault": true,
-	"typescript.tsserver.enableTracing": true
+	"typescript.tsserver.enableTracing": true,
+	"cSpell.words": [
+		"MediumcloneAngular"
+	]
 }
